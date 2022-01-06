@@ -13,7 +13,7 @@ braintree==3.57.1
 cairocffi==1.1.0
 CairoSVG==2.4.2
 catalogue==0.0.8
-celery==4.3.0
+celery==5.2.2
 certifi==2019.9.11
 cfe==0.0.15
 cffi==1.13.1
